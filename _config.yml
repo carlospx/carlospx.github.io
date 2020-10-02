@@ -3,7 +3,8 @@ author: Riccardo Graziosi # name of site's author
 email: riccardo.graziosi97@gmail.com # email of site's author
 url: https://riggraz.dev/no-style-please # root address of the site
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+ As ideias e opiniões expressas aqui são de exclusiva responsabilidade do autor naquele momento, não refletindo, necessariamente, as opiniões do autor em outro momento.
+ Ponderações sem crase pq eu não sei usar esta merda. 
 
 permalink: /:slug.html
 
