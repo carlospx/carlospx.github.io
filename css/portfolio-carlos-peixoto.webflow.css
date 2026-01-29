@@ -899,7 +899,7 @@ figcaption {
 
 .body {
   background-color: #000;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Geist', sans-serif;
 }
 
 .body.projeto {
@@ -1019,7 +1019,7 @@ figcaption {
 .paragraph-4.destaque {
   padding-bottom: 25px;
   border-bottom: 1px solid #646363;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Geist', sans-serif;
   font-size: 28px;
   line-height: 39px;
   font-weight: 400;
@@ -1635,7 +1635,7 @@ figcaption {
 }
 
 .one-item-display.hover-x {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Geist', sans-serif;
   color: #fff;
 }
 
@@ -2584,4 +2584,4 @@ figcaption {
   align-self: end;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/geist@1.2.0/dist/fonts/geist-sans/style.min.css');
