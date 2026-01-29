@@ -899,7 +899,7 @@ figcaption {
 
 .body {
   background-color: #000;
-  font-family: 'National web', sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 .body.projeto {
@@ -1019,7 +1019,7 @@ figcaption {
 .paragraph-4.destaque {
   padding-bottom: 25px;
   border-bottom: 1px solid #646363;
-  font-family: 'National web', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 28px;
   line-height: 39px;
   font-weight: 400;
@@ -1635,7 +1635,7 @@ figcaption {
 }
 
 .one-item-display.hover-x {
-  font-family: 'National web', sans-serif;
+  font-family: 'Inter', sans-serif;
   color: #fff;
 }
 
@@ -2584,21 +2584,4 @@ figcaption {
   align-self: end;
 }
 
-@font-face {
-  font-family: 'National web';
-  src: url('../fonts/national-web-bold.woff2') format('woff2'), url('../fonts/national-web-bold.eot') format('embedded-opentype'), url('../fonts/national-web-bold.woff') format('woff');
-  font-weight: 700;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'National web';
-  src: url('../fonts/national-web-regular-italic.woff2') format('woff2'), url('../fonts/national-web-regular-italic.eot') format('embedded-opentype'), url('../fonts/national-web-regular-italic.woff') format('woff');
-  font-weight: 400;
-  font-style: italic;
-}
-@font-face {
-  font-family: 'National web';
-  src: url('../fonts/national-web-regular.woff2') format('woff2'), url('../fonts/national-web-regular.eot') format('embedded-opentype'), url('../fonts/national-web-regular.woff') format('woff');
-  font-weight: 400;
-  font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
