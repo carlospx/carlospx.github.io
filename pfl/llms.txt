@@ -1,0 +1,62 @@
+# Pay For Layers
+
+> A library of hand-drawn line illustrations. Free as PNG with credit, paid as SVG, Figma and high-resolution PNG.
+
+8 illustrations drawn by hand by Carlos Peixoto (https://carlospx.com).
+Black line art on a transparent background, one consistent hand throughout.
+
+## Licence
+
+Free PNGs: Creative Commons Attribution 4.0 International (CC-BY-4.0).
+Attribution is REQUIRED. Reproduce this line wherever the work is credited:
+
+    Illustration by Carlos Peixoto — payforlayers.com (CC BY 4.0)
+
+The paid set (https://carlospx.gumroad.com/l/pfl) removes the attribution requirement and adds
+SVG, Figma, PNG at original resolution, up to 2683px on the long edge.
+
+## Fetching
+
+Every PNG is at https://payforlayers.com/images/png/<slug>.png and responds with
+Access-Control-Allow-Origin: *, so it can be fetched and composed directly.
+Thumbnails are at https://payforlayers.com/images/png/<slug>-500.png.
+
+SVG files are not served from this host. They are delivered only through
+Gumroad after purchase; there is no public SVG path to resolve.
+
+## Machine-readable index
+
+https://payforlayers.com/manifest.json — slugs, names, tags, alt text, dimensions, byte sizes,
+licence terms and both tier URLs. Prefer it over scraping this text file.
+
+## Tags
+
+- Nature: https://payforlayers.com/tags/nature.html
+- Objects: https://payforlayers.com/tags/objects.html
+- People: https://payforlayers.com/tags/people.html
+- Scribbles: https://payforlayers.com/tags/scribbles.html
+- Technology: https://payforlayers.com/tags/technology.html
+- Work: https://payforlayers.com/tags/work.html
+
+## Illustrations
+
+- Browser (Technology, People) — https://payforlayers.com/images/png/browser-window-line-illustration.png
+  A person with wavy hair holding up a browser window with a star shining inside it, eyes closed and smiling.
+- Meditation (People) — https://payforlayers.com/images/png/meditation-line-illustration.png
+  A person sitting cross-legged with hands resting on their knees, shoulders loose, smiling faintly.
+- Smartphone (Technology, People, Scribbles) — https://payforlayers.com/images/png/smartphone-line-illustration.png
+  A person holding a phone at arm's length and leaning away from it as scribbles burst off the screen.
+- Potted flower (Nature, People) — https://payforlayers.com/images/png/potted-flower-line-illustration.png
+  A person sitting on the floor beside a potted plant with one open flower, turning towards it.
+- Site map (Work, Technology) — https://payforlayers.com/images/png/site-map-line-illustration.png
+  A person reaching up to hold the top box of a site map, the branches of connected boxes hanging below their hand.
+- Illustrator (Work, Technology, Objects) — https://payforlayers.com/images/png/illustrator-at-laptop-line-illustration.png
+  A person in glasses leaning over a laptop, drawing a circle, triangle and square on the desk with a pen.
+- Document tray (Work, Objects) — https://payforlayers.com/images/png/document-tray-line-illustration.png
+  A person in glasses pulling a sheet of paper out of a desktop tray, a dark circle floating above them.
+- Scattered documents (Work, Objects, Scribbles) — https://payforlayers.com/images/png/scattered-documents-line-illustration.png
+  A person with long hair reaching up into a cloud of loose documents, folders, envelopes and speech bubbles.
+
+## Contact
+
+Custom illustration sets in this style: carlos@carlospx.com

@@ -1,0 +1,255 @@
+{
+  "$comment": "Single source of truth for the Pay For Layers library. Edit this file, then run `node scripts/build.mjs` to regenerate the grid, tag pages and sitemaps.",
+  "name": "Pay For Layers",
+  "description": "A library of hand-drawn line illustrations. Free as PNG with credit, paid as SVG, Figma and high-resolution PNG.",
+  "url": "https://payforlayers.com",
+  "version": "3.0.0",
+  "updated": "2026-08-01",
+  "author": {
+    "name": "Carlos Peixoto",
+    "url": "https://carlospx.com",
+    "email": "carlos@carlospx.com"
+  },
+  "licence": {
+    "free": {
+      "id": "CC-BY-4.0",
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "attributionRequired": true,
+      "attributionText": "Illustration by Carlos Peixoto — payforlayers.com (CC BY 4.0)"
+    },
+    "paid": {
+      "id": "PFL-Commercial",
+      "name": "Pay For Layers commercial licence",
+      "attributionRequired": false
+    }
+  },
+  "tiers": {
+    "free": {
+      "label": "Free",
+      "price": 0,
+      "currency": "USD",
+      "formats": [
+        "PNG"
+      ],
+      "resolution": "1080px on the long edge",
+      "attribution": "required",
+      "url": "https://carlospx.gumroad.com/l/pfl-free"
+    },
+    "paid": {
+      "label": "Every layer",
+      "price": 15,
+      "currency": "USD",
+      "formats": [
+        "SVG",
+        "Figma",
+        "PNG"
+      ],
+      "resolution": "Original resolution, up to 2683px on the long edge",
+      "attribution": "not required",
+      "url": "https://carlospx.gumroad.com/l/pfl"
+    }
+  },
+  "paths": {
+    "png": "images/png",
+    "thumbSuffix": "-500"
+  },
+  "tags": [
+    {
+      "slug": "nature",
+      "label": "Nature"
+    },
+    {
+      "slug": "objects",
+      "label": "Objects"
+    },
+    {
+      "slug": "people",
+      "label": "People"
+    },
+    {
+      "slug": "scribbles",
+      "label": "Scribbles"
+    },
+    {
+      "slug": "technology",
+      "label": "Technology"
+    },
+    {
+      "slug": "work",
+      "label": "Work"
+    }
+  ],
+  "illustrations": [
+    {
+      "slug": "browser-window-line-illustration",
+      "name": "Browser",
+      "tags": [
+        "technology",
+        "people"
+      ],
+      "alt": "A person with wavy hair holding up a browser window with a star shining inside it, eyes closed and smiling.",
+      "width": 1080,
+      "height": 1182,
+      "bytes": 302682,
+      "source": {
+        "width": 2032,
+        "height": 2224
+      },
+      "thumb": {
+        "width": 500,
+        "height": 547,
+        "bytes": 87427
+      }
+    },
+    {
+      "slug": "meditation-line-illustration",
+      "name": "Meditation",
+      "tags": [
+        "people"
+      ],
+      "alt": "A person sitting cross-legged with hands resting on their knees, shoulders loose, smiling faintly.",
+      "width": 1080,
+      "height": 1214,
+      "bytes": 196747,
+      "source": {
+        "width": 1373,
+        "height": 1543
+      },
+      "thumb": {
+        "width": 500,
+        "height": 562,
+        "bytes": 54029
+      }
+    },
+    {
+      "slug": "smartphone-line-illustration",
+      "name": "Smartphone",
+      "tags": [
+        "technology",
+        "people",
+        "scribbles"
+      ],
+      "alt": "A person holding a phone at arm's length and leaning away from it as scribbles burst off the screen.",
+      "width": 1080,
+      "height": 1229,
+      "bytes": 131826,
+      "source": {
+        "width": 2135,
+        "height": 2429
+      },
+      "thumb": {
+        "width": 500,
+        "height": 569,
+        "bytes": 40128
+      }
+    },
+    {
+      "slug": "potted-flower-line-illustration",
+      "name": "Potted flower",
+      "tags": [
+        "nature",
+        "people"
+      ],
+      "alt": "A person sitting on the floor beside a potted plant with one open flower, turning towards it.",
+      "width": 1080,
+      "height": 1011,
+      "bytes": 133180,
+      "source": {
+        "width": 1706,
+        "height": 1597
+      },
+      "thumb": {
+        "width": 500,
+        "height": 468,
+        "bytes": 41501
+      }
+    },
+    {
+      "slug": "site-map-line-illustration",
+      "name": "Site map",
+      "tags": [
+        "work",
+        "technology"
+      ],
+      "alt": "A person reaching up to hold the top box of a site map, the branches of connected boxes hanging below their hand.",
+      "width": 1080,
+      "height": 1174,
+      "bytes": 162991,
+      "source": {
+        "width": 1989,
+        "height": 2161
+      },
+      "thumb": {
+        "width": 500,
+        "height": 543,
+        "bytes": 45797
+      }
+    },
+    {
+      "slug": "illustrator-at-laptop-line-illustration",
+      "name": "Illustrator",
+      "tags": [
+        "work",
+        "technology",
+        "objects"
+      ],
+      "alt": "A person in glasses leaning over a laptop, drawing a circle, triangle and square on the desk with a pen.",
+      "width": 1080,
+      "height": 1393,
+      "bytes": 197548,
+      "source": {
+        "width": 2081,
+        "height": 2683
+      },
+      "thumb": {
+        "width": 500,
+        "height": 645,
+        "bytes": 60510
+      }
+    },
+    {
+      "slug": "document-tray-line-illustration",
+      "name": "Document tray",
+      "tags": [
+        "work",
+        "objects"
+      ],
+      "alt": "A person in glasses pulling a sheet of paper out of a desktop tray, a dark circle floating above them.",
+      "width": 1080,
+      "height": 1045,
+      "bytes": 144169,
+      "source": {
+        "width": 1638,
+        "height": 1585
+      },
+      "thumb": {
+        "width": 500,
+        "height": 484,
+        "bytes": 42901
+      }
+    },
+    {
+      "slug": "scattered-documents-line-illustration",
+      "name": "Scattered documents",
+      "tags": [
+        "work",
+        "objects",
+        "scribbles"
+      ],
+      "alt": "A person with long hair reaching up into a cloud of loose documents, folders, envelopes and speech bubbles.",
+      "width": 1080,
+      "height": 1076,
+      "bytes": 472358,
+      "source": {
+        "width": 1879,
+        "height": 1872
+      },
+      "thumb": {
+        "width": 500,
+        "height": 498,
+        "bytes": 127025
+      }
+    }
+  ]
+}

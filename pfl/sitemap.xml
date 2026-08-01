@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://payforlayers.com/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/browser-window-line-illustration.png</image:loc>
+      <image:title>Browser</image:title>
+      <image:caption>A person with wavy hair holding up a browser window with a star shining inside it, eyes closed and smiling.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/meditation-line-illustration.png</image:loc>
+      <image:title>Meditation</image:title>
+      <image:caption>A person sitting cross-legged with hands resting on their knees, shoulders loose, smiling faintly.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/smartphone-line-illustration.png</image:loc>
+      <image:title>Smartphone</image:title>
+      <image:caption>A person holding a phone at arm's length and leaning away from it as scribbles burst off the screen.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/potted-flower-line-illustration.png</image:loc>
+      <image:title>Potted flower</image:title>
+      <image:caption>A person sitting on the floor beside a potted plant with one open flower, turning towards it.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/site-map-line-illustration.png</image:loc>
+      <image:title>Site map</image:title>
+      <image:caption>A person reaching up to hold the top box of a site map, the branches of connected boxes hanging below their hand.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/illustrator-at-laptop-line-illustration.png</image:loc>
+      <image:title>Illustrator</image:title>
+      <image:caption>A person in glasses leaning over a laptop, drawing a circle, triangle and square on the desk with a pen.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/document-tray-line-illustration.png</image:loc>
+      <image:title>Document tray</image:title>
+      <image:caption>A person in glasses pulling a sheet of paper out of a desktop tray, a dark circle floating above them.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/scattered-documents-line-illustration.png</image:loc>
+      <image:title>Scattered documents</image:title>
+      <image:caption>A person with long hair reaching up into a cloud of loose documents, folders, envelopes and speech bubbles.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://payforlayers.com/tags/nature.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/potted-flower-line-illustration.png</image:loc>
+      <image:title>Potted flower</image:title>
+      <image:caption>A person sitting on the floor beside a potted plant with one open flower, turning towards it.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://payforlayers.com/tags/objects.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/illustrator-at-laptop-line-illustration.png</image:loc>
+      <image:title>Illustrator</image:title>
+      <image:caption>A person in glasses leaning over a laptop, drawing a circle, triangle and square on the desk with a pen.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/document-tray-line-illustration.png</image:loc>
+      <image:title>Document tray</image:title>
+      <image:caption>A person in glasses pulling a sheet of paper out of a desktop tray, a dark circle floating above them.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/scattered-documents-line-illustration.png</image:loc>
+      <image:title>Scattered documents</image:title>
+      <image:caption>A person with long hair reaching up into a cloud of loose documents, folders, envelopes and speech bubbles.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://payforlayers.com/tags/people.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/browser-window-line-illustration.png</image:loc>
+      <image:title>Browser</image:title>
+      <image:caption>A person with wavy hair holding up a browser window with a star shining inside it, eyes closed and smiling.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/meditation-line-illustration.png</image:loc>
+      <image:title>Meditation</image:title>
+      <image:caption>A person sitting cross-legged with hands resting on their knees, shoulders loose, smiling faintly.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/smartphone-line-illustration.png</image:loc>
+      <image:title>Smartphone</image:title>
+      <image:caption>A person holding a phone at arm's length and leaning away from it as scribbles burst off the screen.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/potted-flower-line-illustration.png</image:loc>
+      <image:title>Potted flower</image:title>
+      <image:caption>A person sitting on the floor beside a potted plant with one open flower, turning towards it.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://payforlayers.com/tags/scribbles.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/smartphone-line-illustration.png</image:loc>
+      <image:title>Smartphone</image:title>
+      <image:caption>A person holding a phone at arm's length and leaning away from it as scribbles burst off the screen.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/scattered-documents-line-illustration.png</image:loc>
+      <image:title>Scattered documents</image:title>
+      <image:caption>A person with long hair reaching up into a cloud of loose documents, folders, envelopes and speech bubbles.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://payforlayers.com/tags/technology.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/browser-window-line-illustration.png</image:loc>
+      <image:title>Browser</image:title>
+      <image:caption>A person with wavy hair holding up a browser window with a star shining inside it, eyes closed and smiling.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/smartphone-line-illustration.png</image:loc>
+      <image:title>Smartphone</image:title>
+      <image:caption>A person holding a phone at arm's length and leaning away from it as scribbles burst off the screen.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/site-map-line-illustration.png</image:loc>
+      <image:title>Site map</image:title>
+      <image:caption>A person reaching up to hold the top box of a site map, the branches of connected boxes hanging below their hand.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/illustrator-at-laptop-line-illustration.png</image:loc>
+      <image:title>Illustrator</image:title>
+      <image:caption>A person in glasses leaning over a laptop, drawing a circle, triangle and square on the desk with a pen.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://payforlayers.com/tags/work.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/site-map-line-illustration.png</image:loc>
+      <image:title>Site map</image:title>
+      <image:caption>A person reaching up to hold the top box of a site map, the branches of connected boxes hanging below their hand.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/illustrator-at-laptop-line-illustration.png</image:loc>
+      <image:title>Illustrator</image:title>
+      <image:caption>A person in glasses leaning over a laptop, drawing a circle, triangle and square on the desk with a pen.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/document-tray-line-illustration.png</image:loc>
+      <image:title>Document tray</image:title>
+      <image:caption>A person in glasses pulling a sheet of paper out of a desktop tray, a dark circle floating above them.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://payforlayers.com/images/png/scattered-documents-line-illustration.png</image:loc>
+      <image:title>Scattered documents</image:title>
+      <image:caption>A person with long hair reaching up into a cloud of loose documents, folders, envelopes and speech bubbles.</image:caption>
+      <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+    </image:image>
+  </url>
+  <url><loc>https://payforlayers.com/licence.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://payforlayers.com/terms.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+</urlset>

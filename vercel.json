@@ -1,0 +1,59 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": null,
+  "outputDirectory": "pfl",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "headers": [
+    {
+      "source": "/images/png/(.*)",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin", "value": "*" },
+        { "key": "Access-Control-Allow-Methods", "value": "GET, HEAD, OPTIONS" },
+        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+      ]
+    },
+    {
+      "source": "/manifest.json",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin", "value": "*" },
+        { "key": "Cache-Control", "value": "public, max-age=3600" }
+      ]
+    },
+    {
+      "source": "/llms.txt",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin", "value": "*" },
+        { "key": "Content-Type", "value": "text/plain; charset=utf-8" }
+      ]
+    },
+    {
+      "source": "/fonts/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+      ]
+    },
+    {
+      "source": "/css/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+      ]
+    },
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
+        { "key": "X-Frame-Options", "value": "SAMEORIGIN" }
+      ]
+    }
+  ],
+  "redirects": [
+    { "source": "/index.html", "destination": "/", "permanent": true }
+  ],
+  "_comment_svg": "No SVG is deployed. PNGs sit at predictable public paths, so the matching SVG path is the first thing anyone will try. This returns 404 for every .svg regardless of what lands in the output directory later, so an accidental commit cannot expose paid artwork.",
+  "rewrites": [
+    { "source": "/:path*.svg", "destination": "/404-svg" }
+  ],
+  "_comment_library": "Reserved for the gated library. /api/* is free for serverless functions; nothing is built there yet. The grid renders from manifest.json, so a gated route can read the same manifest at request time and serve signed URLs without changing markup or CSS."
+}
